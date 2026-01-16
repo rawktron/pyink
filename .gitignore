@@ -3,4 +3,4 @@
 __pycache__/
 *.pyc
 dist/
-pyink.egg-info/
+inkpython.egg-info/
